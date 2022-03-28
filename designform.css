@@ -1,0 +1,135 @@
+body{
+    display: flex;
+    justify-content: center;
+    height:100vh;
+    align-items: center;
+}
+
+section{
+    border: 4px solid black;
+    padding: 10px;
+    width: 500px;
+    height: 360px;
+    
+    margin: 0PX;
+    padding-top: 5PX;
+}
+h3{
+    background-color: hsl(0deg 79% 54%);
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.mag{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.div1{
+    padding-left: 20px;
+}
+
+.div2{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 3px solid black;
+    font-family: 'Licorice', cursive;
+    font-size: 30px;
+}
+
+.div2>p:first-child{
+    position: relative;
+    left: -38px;
+}
+
+.div2>p:last-child{
+    position: relative;
+    left: -38px;
+}
+
+    
+.div3{
+    display: flex;
+    margin-top: 0px;
+    
+}
+.div3>p:last-child{
+    position: relative;
+    right: -172px;
+}
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+    font-family: 'Licorice', cursive;
+    font-size: 30px;
+    
+    
+
+}
+.div4>p:last-child{
+    position: relative;
+    right: 40px;
+}
+.div4>p:nth-child(2){
+    position: relative;
+    right: 37px;
+}
+.div5{
+    display: flex;
+    justify-content: space-between;
+
+}
+.div5>p:last-child{
+    position: relative;
+    right: 40px;
+}
+.div5>p:nth-child(2){
+    position: relative;
+    right: 37px;
+}
+
+
+.div6{
+    font-weight: bold;
+    font-size: 21px;
+    margin-top: 0px;
+    padding-bottom: 2px;
+    margin-bottom: 0px;
+    
+}
+
+.name{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.l2{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+    border-bottom: 3px solid black;
+    font-family: 'Licorice', cursive;
+    font-size: 24px;
+}
+
+.adr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.city{
+    margin-top:0px;
+
+    }
+.place{
+    margin-bottom: 0px;
+    margin-top:0px;
+}
+
+
+
