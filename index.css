@@ -1,0 +1,14 @@
+section{
+    background-image: linear-gradient(180deg, #bdcd4d, #f1a21f, #ff6147, #ff0090, #d71de9);
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.div2{
+    text-align: left;
+    padding-left: 20px;
+}
+a{
+    text-decoration: none;
+    line-height: 2.2em;
+}
