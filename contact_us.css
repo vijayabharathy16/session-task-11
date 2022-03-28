@@ -1,0 +1,42 @@
+.div1{
+    background: rgb(195 209 215);
+    width: 400px;
+    text-align: center;
+    
+    padding-bottom: 26px;
+}
+.div2{
+    background: snow;
+    width: 400px;
+}
+h2{
+    color: rgb(63 81 181);
+    padding-top: 10px;
+}
+button{
+background: hsl(120deg 54% 76%);
+padding: 10px 20px;
+margin-top: 22px;
+color: hsl(0deg 46% 31%);
+font-weight: bold;
+}
+.inp12{
+    margin-top:10px;
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+}
+.inp3{
+    margin-top:10px;
+    height: 30px;
+    font-size: 20px;
+    width: 312px;
+}
+.inp4{
+    margin-top:10px;
+    height: 100px;
+    font-size: 20px;
+    width: 312px;
+    margin-bottom:10px ;
+    text-align: center;
+}
